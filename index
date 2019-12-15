@@ -4,7 +4,12 @@
 <body>
 <p> this is dagger</p>
 <h1> first modification</h1>
+<<<<<<< HEAD
 sdfsdfssdfsdf
 
+=======
+sdfsdf
+sf
+>>>>>>> cc6b9bbde1248d7c1be8361ffc14c8f7af2c9bff
 </body>
 </html>
