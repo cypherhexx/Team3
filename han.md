@@ -1,4 +1,8 @@
-# 12-15
+## 12-15
 Today, i studied about angular.
 In today study, i learned about the structure of the angular app and data binding and so on.
 I also study about github.
+## 12-16
+Today, I studied about angular.
+I learned about how to use basic language in angular including html, javascript and typescript.
+
