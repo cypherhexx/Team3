@@ -1,3 +1,12 @@
+## 12-17
+
+### bid number
+30
+
+### study
+I learned about JS especially about encoding and decoding URL.
+And also I learned about angular , Data model and sportstore project. 
+
 ## 12-16
 
 ### bid number
