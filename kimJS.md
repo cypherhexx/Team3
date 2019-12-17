@@ -1,10 +1,3 @@
-## 12-15
-### Study.
-I studied about the fundamentals of wordpress such as installation, using Cpanel etc.
-And studied about using method of git with ui.
-### task
-I discuss about the MERN stack task with Alejandro in freelancer.com
-
 ## 12-16
 
 ### study
@@ -16,3 +9,12 @@ And I fetched the image info from mysql and displayed these images as carousel.
 
 ### bid Number
 8(Mern Stack, php, javascript)
+
+## 12-15
+### Study.
+I studied about the fundamentals of wordpress such as installation, using Cpanel etc.
+And studied about using method of git with ui.
+### task
+I discuss about the MERN stack task with Alejandro in freelancer.com
+
+
