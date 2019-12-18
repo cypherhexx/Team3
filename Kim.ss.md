@@ -1,3 +1,7 @@
+##   2019-12-18
+I studied by React sample"Calculator".
+And, I read the book with the title "ReactJSNotesForProfessionals.pdf".
+
 ##   2019-12-17
 I studied javascript, Redux and React.
 And, I studied the part of "Front end libraries certification/React and Redux, Front End Library Projects" from "freecodecamp.org".
