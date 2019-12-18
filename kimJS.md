@@ -1,3 +1,8 @@
+## 12-17
+### Task
+I completed the registering and deleting of carousel image in admin page, implemented the carousel functionality using the responsiveslides plugin in user page.
+And I deplyed this step to testnet site and checked this with client.
+
 ## 12-16
 
 ### study
