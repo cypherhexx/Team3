@@ -1,3 +1,11 @@
+## 12-18
+
+### TASK
+I implemented the displaying control type from database,table management in admin page, remote file delete, fix upload file manage etc.
+And I deployed this step and checked this with client.
+### bid Number
+5(laravel, react)
+
 ## 12-17
 ### Task
 I completed the registering and deleting of carousel image in admin page, implemented the carousel functionality using the responsiveslides plugin in user page.
