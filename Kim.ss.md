@@ -1,3 +1,7 @@
+##   2019-12-19
+I studied Node.js and Express from W3school.com.
+And, I read the book with the title "OReilly - Learning React Functional Web Development.pdf".
+
 ##   2019-12-18
 I studied by React sample"Calculator".
 And, I read the book with the title "ReactJSNotesForProfessionals.pdf".
