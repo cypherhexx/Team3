@@ -3,7 +3,6 @@
 ### TASK
 I implemented the displaying control type from database,table management in admin page, remote file delete, fix upload file manage etc.
 And I deployed this step and checked this with client.
-
 ### bid Number
 5(laravel, react)
 
