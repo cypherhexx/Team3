@@ -1,3 +1,13 @@
+## 12-18
+
+###bid number
+30
+
+### study
+I learned about angular chapter 6-8.
+And i studied about Core php for the project. It was about carousel, table management and
+shipping tracking.
+
 ## 12-17
 
 ### bid number
