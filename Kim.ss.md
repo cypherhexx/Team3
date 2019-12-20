@@ -1,3 +1,8 @@
+##   2019-12-20
+I studied MONGODB and MONGOOSE from "freecodecamp.org".
+So, I started to make project by using MERN stack.
+And, I read the book about MERN stack.
+
 ##   2019-12-19
 I studied Node.js and Express from W3school.com.
 And, I read the book with the title "OReilly - Learning React Functional Web Development.pdf".
