@@ -1,3 +1,18 @@
+##12-20
+
+###TASK
+I implemented the functionality for converting the static control type to dynamic control type using database and crud of control type.
+
+### bid number
+8(javascript, React, node)
+
+## 12-19
+### TASK
+I implementd the functionality for crud and category of addon list and check and transfer the tracking information to mailbox when shipping.
+
+### bid Number 
+12(MERN, php)
+
 ## 12-18
 
 ### TASK
