@@ -1,3 +1,12 @@
+## 12-21
+
+### TASK
+I implemented the functionality that categorize the addons by control type and calculate the price of addons by group, display the transaction result using table.
+
+### bid number
+8(react.js, vue.js , sale.js, node)
+
+
 ## 12-20
 
 ### TASK
