@@ -1,3 +1,8 @@
+##   2019-12-22
+I studied MERN stack from "https://codingthesmartway.com/tag/mern-stack/".
+I read the book about MERN stack.
+And, I've started the project about "table-manage".
+
 ##   2019-12-20
 I studied MONGODB and MONGOOSE from "freecodecamp.org".
 So, I started to make project by using MERN stack.
