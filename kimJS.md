@@ -1,3 +1,13 @@
+## 12-23
+### TASK
+I implemented the functionality that confirm transaction of addon and display the transaction table etc.
+
+### Study
+I studied about the react course(video 8)
+
+### bid number 
+17(PHP, Frontend)
+
 ## 12-21
 
 ### TASK
