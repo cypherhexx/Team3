@@ -1,3 +1,13 @@
+## 12-24
+### TASK
+I fixed the functionality to calculate the cost of product and addon by control type, add the various type of data to the transaction table.
+
+### Study
+I studied about the auth functionality using jwt-decode in react
+
+### bid number 
+15(google video integration, laravel+vue, react)
+
 ## 12-23
 ### TASK
 I implemented the functionality that confirm transaction of addon and display the transaction table etc.
