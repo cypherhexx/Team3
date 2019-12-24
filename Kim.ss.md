@@ -1,3 +1,11 @@
+##   2019-12-24
+I studied about it, too and read the book with the title "Pro MERN Stack.pdf".
+And, I'v started the project about "Login" by using it.
+
+##   2019-12-23
+I'v finished the project about "table-manage".
+And, I studied MERN stack from "https://codingthesmartway.com/tag/mern-stack/".
+
 ##   2019-12-22
 I studied MERN stack from "https://codingthesmartway.com/tag/mern-stack/".
 I read the book about MERN stack.
