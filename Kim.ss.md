@@ -1,3 +1,8 @@
+##  2019-12-25
+I progressed about my new task.
+And, I read the books about the MERN stacks.
+I'll end it within this week.
+
 ##   2019-12-24
 I studied about it, too and read the book with the title "Pro MERN Stack.pdf".
 And, I'v started the project about "Login" by using it.
