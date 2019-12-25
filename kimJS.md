@@ -1,3 +1,11 @@
+## 12-25
+### TASK
+I implemented the functionality to manage addon for rooler blind page and day-night blind page, calculate the price for main product and addon in these page.
+### Study
+I sutdied about the react course(video 6)
+### bid number
+18(MERN, php)
+
 ## 12-24
 ### TASK
 I fixed the functionality to calculate the cost of product and addon by control type, add the various type of data to the transaction table.
