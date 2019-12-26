@@ -1,3 +1,14 @@
+## 12-26
+### TASK
+I implemented the functionality to calculate the total price by main product and addons, confirm the transaction and display it to table.
+
+### Study
+I studied about the react course(video 6)
+
+### bid number
+20(php,js)
+
+
 ## 12-25
 ### TASK
 I implemented the functionality to manage addon for rooler blind page and day-night blind page, calculate the price for main product and addon in these page.
