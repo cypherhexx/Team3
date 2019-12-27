@@ -1,3 +1,11 @@
+## 12-27
+
+### bid number
+20
+
+### Study
+Today, i review about the Angular which i studied before.
+
 ## 12-18
 
 ###bid number
