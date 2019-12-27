@@ -1,3 +1,11 @@
+##  2019-12-27
+I studied about Regular expression.
+And, I read the books about it.
+
+##  2019-12-26
+I studied MERN stack plugins.
+And, I'll learn about asga.
+
 ##  2019-12-25
 I progressed about my new task.
 And, I read the books about the MERN stacks.
