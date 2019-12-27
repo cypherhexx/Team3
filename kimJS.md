@@ -1,3 +1,10 @@
+## 12-27
+
+### STUDY
+I studied about the react course(video 7)
+### bid number 
+15(MERN, PHP)
+
 ## 12-26
 ### TASK
 I implemented the functionality to calculate the total price by main product and addons, confirm the transaction and display it to table.
