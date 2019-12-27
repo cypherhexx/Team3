@@ -3,7 +3,7 @@
 ### STUDY
 I studied about the react course(video 7)
 ### bid number 
-15(MERN, PHP)
+15(MERN, PHP,Responsive)
 
 ## 12-26
 ### TASK
