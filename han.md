@@ -1,3 +1,12 @@
+## 12-19
+
+### bid number
+0
+
+### Study
+Today, i studied about the angular by building Sportsstore project. In this project, i implemented the functionality such as 
+adding cart, checkout, admin display, dynamic source.
+
 ## 12-27
 
 ### bid number
