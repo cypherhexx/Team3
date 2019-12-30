@@ -1,3 +1,12 @@
+## 12-29
+### TASK
+I implemented the functionality that assign the voucher parameter in admin, and calculating the result with this in user page.
+
+### STUDY
+I grasped the basic functionality of traller.com.
+I studied react video course(8)
+### bid number 
+15(MERN, PHP)
 ## 12-27
 
 ### STUDY
