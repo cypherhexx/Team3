@@ -1,3 +1,7 @@
+##  2019-12-29
+I studied about MREN stack CRUD.
+And, I'v studied Redux and middleware "saga".
+
 ##  2019-12-27
 I studied about Regular expression.
 And, I read the books about it.
