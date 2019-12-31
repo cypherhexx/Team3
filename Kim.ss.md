@@ -1,3 +1,8 @@
+##  2019-12-30
+I studied about Mern stack crud.
+And, I performed work about 'Trello demo page'.
+I'll finish as soon as quickly...
+
 ##  2019-12-29
 I studied about MREN stack CRUD.
 And, I'v studied Redux and middleware "saga".
