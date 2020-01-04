@@ -1,4 +1,12 @@
-## 12-19
+## 12-30
+
+### bid number
+0
+
+### study
+I studied about angular by building project.  I implemented the functionality such as auth, login page.
+
+## 12-29
 
 ### bid number
 0
