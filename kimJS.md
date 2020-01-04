@@ -1,3 +1,9 @@
+## 12-31
+### STUDY
+I studied react video course(6)
+### Bid
+10(php, MERN)
+
 ## 12-30
 ### STUDY
 I studied react video course(6)
