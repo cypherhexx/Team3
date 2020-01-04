@@ -1,3 +1,11 @@
+## 12-31
+
+### bid number
+0
+
+### study
+I studied about angular by building project. I added Cart page to the project.
+
 ## 12-30
 
 ### bid number
