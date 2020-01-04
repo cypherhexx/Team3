@@ -1,3 +1,8 @@
+##  2019-12-31
+I stuied about 'Trello.com'.
+And, I study MERN stack.
+I'll try to study hard in new year.
+
 ##  2019-12-30
 I studied about Mern stack crud.
 And, I performed work about 'Trello demo page'.
