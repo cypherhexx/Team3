@@ -1,3 +1,11 @@
+##  2020-01-05
+I performed my task that was used to do yesterday, continusely.
+So, I made landing page of this.
+
+##  2020-01-04
+I started to make the Demo page of 'Trello.com'.
+And, I studied about the MREN stack.
+
 ##  2019-12-31
 I stuied about 'Trello.com'.
 And, I study MERN stack.
