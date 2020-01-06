@@ -1,3 +1,20 @@
+## 1-5
+
+### bid number
+22
+
+### study
+
+I studied about angular by building project. I added the crud page to the project.
+
+## 1-4
+
+### bid number
+20
+
+### Study
+I studied about angular. I added admin page including login, authentication.
+
 ## 12-31
 
 ### bid number
