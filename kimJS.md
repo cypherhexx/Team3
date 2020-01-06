@@ -1,3 +1,9 @@
+## 1-6
+### TASK
+I implemented the order edit functionality for 3 product and fixed the issues.
+I analyzed the quotes generate part of admin page and displaying the quotes each every week in user page.
+### bid
+10
 ## 1-5
 ### TASK
 I implemented the functionality that discount addon and base price by coupon in 3 product.
