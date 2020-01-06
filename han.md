@@ -1,3 +1,11 @@
+## 1-6
+
+### bid number 
+20
+
+### study
+I studied about how make responsive page in w3schools.
+
 ## 1-5
 
 ### bid number
