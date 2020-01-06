@@ -1,3 +1,16 @@
+## 1-5
+### TASK
+I implemented the functionality that discount addon and base price by coupon in 3 product.
+I analyzed the requirement for managing the quotes in admin page.
+### Bid
+18(laravel, javascript, MERN)
+## 1-4
+### TASK
+I implemented the functionality that complete the order to discount by coupon in one product.
+### STUDY
+I studied react video course(5)
+### bid
+20
 ## 12-31
 ### STUDY
 I studied react video course(6)
