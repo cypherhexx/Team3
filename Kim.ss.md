@@ -1,3 +1,8 @@
+##  2020-01-06
+I performed making Trello's demo page.
+I studied redux-saga.
+Tomorrow, I'll perform backend part of it.
+
 ##  2020-01-05
 I performed my task that was used to do yesterday, continusely.
 So, I made landing page of this.
