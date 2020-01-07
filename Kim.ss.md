@@ -1,3 +1,8 @@
+##  2020-01-07
+I performed backend of my project, today.
+Correctly, I'v performed Login & Signup part in it.
+Continusely, I would be finished this part till tomorrow.
+
 ##  2020-01-06
 I performed making Trello's demo page.
 I studied redux-saga.
