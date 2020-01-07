@@ -1,3 +1,9 @@
+## 1-7
+### Study
+I studied about the redux-saga, managing taken etc.
+### Bid
+27(Web hosting, MERN, Mining)
+
 ## 1-6
 ### TASK
 I implemented the order edit functionality for 3 product and fixed the issues.
