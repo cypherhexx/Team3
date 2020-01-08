@@ -1,3 +1,8 @@
+##  2020-01-08
+I learnd about jwt.
+And, I implemented it to backend of my project.
+I'll try to finish quickly it.
+
 ##  2020-01-07
 I performed backend of my project, today.
 Correctly, I'v performed Login & Signup part in it.
