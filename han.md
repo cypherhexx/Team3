@@ -1,3 +1,11 @@
+## 1-7
+
+### bid number
+20
+
+### study
+I studied about responsive page in w3schools and angular details especially observable, routing.
+
 ## 1-6
 
 ### bid number 
