@@ -3,12 +3,12 @@
 I studied about the generator function and making Asynchronous calls, fetching data in redux-saga.
 ### Bid 
 total-22
-  MERN-4
+  (MERN-4
   Noode-2
   Laravel+crytpocurrency 1
   PHP 8
   Javascript-4
-  Responsive-3
+  Responsive-3)
 ## 1-7
 ### Study
 I studied about the redux-saga, managing taken etc.
