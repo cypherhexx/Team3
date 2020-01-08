@@ -1,3 +1,11 @@
+## 1-8
+
+### bid number
+20
+
+### study
+Today, I started trello project. I deploy the environment and  started budiling the landing page.
+
 ## 1-7
 
 ### bid number
