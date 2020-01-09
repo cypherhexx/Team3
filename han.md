@@ -1,3 +1,11 @@
+## 1-9
+
+### bid number
+30
+
+### study 
+Today, i inserted some parts to landing page of Trello. including animation, document design and so on.
+
 ## 1-8
 
 ### bid number
