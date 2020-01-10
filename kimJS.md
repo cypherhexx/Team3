@@ -1,3 +1,11 @@
+## 1-9
+### TASK
+I grasped the structure of laravel project to manage member, theme style, language in admin page on.
+### study
+I studied about the react course 7(shopping site)
+### Bid
+23(MERN 8, javascript 7, hosting 2, laravel fix 1, laravel project build 1 etc)
+
 ## 1-8
 ### Study
 I studied about the generator function and making Asynchronous calls, fetching data in redux-saga.
