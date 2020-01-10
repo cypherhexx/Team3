@@ -1,3 +1,8 @@
+##  2020-01-10
+I performed to make Trello's demo page, too.
+Today, I made login and signup logic and implemented it to backend.
+I'll start to make CheckTrellopage and DashboardPage.
+
 ##  2020-01-09
 I performed to make Trello's demo page.
 And, I'v studied about the passport.
