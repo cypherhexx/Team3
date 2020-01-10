@@ -1,3 +1,11 @@
+## 1-10
+
+### bid number
+40
+
+### study
+Today, I studied about angular animation and mainipulating states in angular. I implement simple animation in the sample angular page.
+
 ## 1-9
 
 ### bid number
