@@ -1,11 +1,13 @@
 ## 1-10
-### TASK
-I built the landing page with laravel for book store but canceled this task because of insufficient of requirement, hosting issue, providing link url.
+
 ### bid
 17(laravel 4, react 8, build php project 1, javascript 3, Golang project 1, etc)
 I discussed about the completing the ongoing project built(hair salon website) with golang and hosting.
 ### study
 I studied about the React course 7(shopping site)
+### TASK
+I built the landing page with laravel for book store but canceled this task because of insufficient of requirement, hosting issue, providing link url.
+
 ## 1-9
 ### TASK
 I grasped the structure of laravel project to manage member, theme style, language in admin page on.
