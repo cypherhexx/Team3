@@ -1,3 +1,7 @@
+##  2020-01-09
+I performed to make Trello's demo page.
+And, I'v studied about the passport.
+
 ##  2020-01-08
 I learnd about jwt.
 And, I implemented it to backend of my project.
