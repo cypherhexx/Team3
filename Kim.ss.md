@@ -1,3 +1,8 @@
+##  2020-01-12
+I performed to make Trello's boardpage.
+I didn't finish it within it's time.
+I'll try to work hard, tomorrow.
+
 ##  2020-01-10
 I performed to make Trello's demo page, too.
 Today, I made login and signup logic and implemented it to backend.
