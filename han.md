@@ -1,3 +1,14 @@
+## 1-12
+
+### bid number
+20
+
+### study
+I study about mean stack. Connecting node, express, mongodb and angular for the trello page
+
+## 1-11
+Holiday
+
 ## 1-10
 
 ### bid number
