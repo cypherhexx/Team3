@@ -1,3 +1,10 @@
+## 1-12
+
+### bid
+22(MERN-building poker site, PHP, Javascript)
+### study
+I studied about the React Course 7(sign in and sign up)
+
 ## 1-10
 
 ### bid
