@@ -1,3 +1,7 @@
+##  2020-01-13
+I today performed to make Trello's boardpage, too.
+I'll make Checkpage to enter into the boardpage...
+
 ##  2020-01-12
 I performed to make Trello's boardpage.
 I didn't finish it within it's time.
