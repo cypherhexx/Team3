@@ -1,3 +1,11 @@
+## 1-13
+
+### bid number
+50
+
+### study
+i studied about angular backend implementing login and sign up page.
+
 ## 1-12
 
 ### bid number
