@@ -1,3 +1,10 @@
+## 1-14
+### bid
+35(PHP, MERN, Web game, Web hosting)
+### study
+I studied about the html.css coding style and react course 6(payment integration)
+And I solved 2 algorithm problem.
+
 ## 1-13
 ### bid
 28 (PHP, Javascript, payment integration, laravel test,)
