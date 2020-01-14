@@ -1,3 +1,11 @@
+## 1-13
+### bid
+28 (PHP, Javascript, payment integration, laravel test,)
+poker-game:I discussed that we will start work tomorrow after I would get the UI theme and poker game engin and let client show.
+PHP-fix: I discussed with client I will work on his local with teamview tomorrow.
+### study
+I studied about the react course.( google firebase)
+
 ## 1-12
 
 ### bid
