@@ -1,3 +1,7 @@
+##  2020-01-14
+I performed to make Trello's boardpage actions.
+And, I studied about redux-saga.
+
 ##  2020-01-13
 I today performed to make Trello's boardpage, too.
 I'll make Checkpage to enter into the boardpage...
