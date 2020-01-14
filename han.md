@@ -1,3 +1,11 @@
+## 1-14
+
+### bid number
+50
+
+### study
+I studied about mail sending in core php and algorithm problems. And finish the sign up page of the trello page.
+
 ## 1-13
 
 ### bid number
