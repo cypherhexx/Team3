@@ -1,3 +1,11 @@
+## 1-15
+
+### bid number
+30
+
+### study
+I solved 3 algorithm problems and studied about file handling in core php.
+
 ## 1-14
 
 ### bid number
