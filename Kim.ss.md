@@ -1,3 +1,7 @@
+##  2020-01-15
+I performed it, too.
+I'll make the board page of Trello's demo.
+
 ##  2020-01-14
 I performed to make Trello's boardpage actions.
 And, I studied about redux-saga.
