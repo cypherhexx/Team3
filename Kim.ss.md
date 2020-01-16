@@ -1,3 +1,8 @@
+##  2020-01-16
+I completed board page.
+I studied about redux-persist and how to use redux-devtool.
+I'll tomorrow perform to make the demo page of Trello, too.
+
 ##  2020-01-15
 I performed it, too.
 I'll make the board page of Trello's demo.
