@@ -1,3 +1,15 @@
+## 1-16
+### bid
+30(PHP,Responsive, Wordpress, MERN, Javascript)
+### study
+I solved the algorithm problem No.14(longest common prefix) and No.20( valid parentness).
+And I studied about the Javascript coding style.
+I studied about the async and await in react.
+## 1-15
+### bid
+23(PHP, Web hosting, Shopify, Ecommerce,MERN)
+### study
+I studied about the react course7.(using firestore)
 ## 1-14
 ### bid
 35(PHP, MERN, Web game, Web hosting)
