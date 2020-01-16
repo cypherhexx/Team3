@@ -2,6 +2,7 @@
 I completed board page.
 I studied about redux-persist and how to use redux-devtool.
 I'll tomorrow perform to make the demo page of Trello, too.
+My repository url "https://github.com/Jameskelly120/Algorithum"
 
 ##  2020-01-15
 I performed it, too.
