@@ -1,3 +1,11 @@
+## 1-16
+
+### bid number
+50
+
+### study
+I solved 2 algorithm problems and made the php script for storing data from docx in mysql.
+
 ## 1-15
 
 ### bid number
