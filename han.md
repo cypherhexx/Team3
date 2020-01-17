@@ -1,3 +1,11 @@
+## 1-17
+
+### bid number
+15
+
+### study
+I solved 2 algorithms and learned about laravel and swiftype search.
+
 ## 1-16
 
 ### bid number
