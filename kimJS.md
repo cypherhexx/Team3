@@ -1,3 +1,11 @@
+## 1-17
+### task
+I accepted the php task(PHP, implementing the plan using CRUD, budget:30) and implemented the 70% functionality according to the requirement but there was a problem for the account of the client so that this project is deleted.
+### study.
+I studied about the react video course(Redux)
+### bid
+40 (Laravel, MERN, Javascript, Ecommerce)
+I discussed about the ecommerce project like as amazon.com(Budget:1500, Payment method:about 6 step -pay step by step)
 ## 1-16
 ### bid
 30(PHP,Responsive, Wordpress, MERN, Javascript)
