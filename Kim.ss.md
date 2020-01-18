@@ -1,3 +1,7 @@
+##  2020-01-17
+I performed to make user's board page and study about algorithum.
+I'll tomorrow study about redux-thunk and it will emplement to trello' demo site.
+
 ##  2020-01-16
 I completed board page.
 I studied about redux-persist and how to use redux-devtool.
