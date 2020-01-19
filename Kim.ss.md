@@ -1,3 +1,8 @@
+##  2020-01-19
+I performed to make user's board page, too.
+I'll finish to make it.
+And, I'll stydy about the react-hook.
+
 ##  2020-01-17
 I performed to make user's board page and study about algorithum.
 I'll tomorrow study about redux-thunk and it will emplement to trello' demo site.
