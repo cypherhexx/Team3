@@ -1,3 +1,13 @@
+## 1-19
+### task
+I uploaded project to live site and modifed the database.
+### study
+-I solved the 2 algorithm problem (27 Remove element, 28 inplement strStr) 
+(https://github.com/Paul-Tate/Algorithm)
+-I studied about the react video course(Redux)
+### bid
+25 (hosting, payment integration, fix bug for git project, design DB)
+
 ## 1-17
 ### task
 I accepted the php task(PHP, implementing the plan using CRUD, budget:30) and implemented the 70% functionality according to the requirement but there was a problem for the account of the client so that this project is deleted.
