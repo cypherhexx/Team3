@@ -1,3 +1,14 @@
+## 1-19
+
+### bid number
+20
+
+### study
+I studied about the search engine and algorithm problems. And i also studied about laravel deployment.
+
+## 1-18
+holiday
+
 ## 1-17
 
 ### bid number
