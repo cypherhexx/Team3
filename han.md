@@ -1,3 +1,11 @@
+## 1-20
+
+### bid number
+30
+
+### study
+I solved 2 algorithm problems and did some in trello project and studied about php functions for sending mail.
+
 ## 1-19
 
 ### bid number
