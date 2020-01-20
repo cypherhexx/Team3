@@ -11,7 +11,7 @@ I discussed about the project that add functionality such as  multi translate, n
 ### task
 I uploaded project to live site and modifed the database.
 ### study
--I solved the 2 algorithm problem (27 Remove element, 28 inplement strStr) 
+-I solved the 2 algorithm problem (27 Remove element, 28 inplement strStr). 
 (https://github.com/Paul-Tate/Algorithm)
 -I studied about the react video course(Redux)
 ### bid
