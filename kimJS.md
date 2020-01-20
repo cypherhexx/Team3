@@ -1,3 +1,12 @@
+## 1-20
+### task
+I discussed about the project that add functionality such as  multi translate, new product config etc.
+### study
+-I solved the 2 algorithm problem
+(https://github.com/Paul-Tate/Algorithm)
+### bid
+40(Node, payment integration, converting pdf, React, CI)
+
 ## 1-19
 ### task
 I uploaded project to live site and modifed the database.
