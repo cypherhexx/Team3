@@ -1,3 +1,8 @@
+##  2020-01-20
+I today implemented abilities of user's board page.
+And, I studied about coding styles.
+Tomorrow, I'll continue to make it and study about them.
+
 ##  2020-01-19
 I performed to make user's board page, too.
 I'll finish to make it.
