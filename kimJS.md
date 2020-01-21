@@ -1,3 +1,11 @@
+## 1-21
+### study
+-I solved the 2 algorithm problem(53-maximum subarray, 58-length of last word)
+(https://github.com/Paul-Tate/Algorithm)
+-I studied about the hosting method to heroku for MERN project.
+### bid
+40(React, Laravel, Perl, Payment integration, Cryptocurrency integration, xls, pdf converting etc) 
+
 ## 1-20
 ### task
 I discussed about the project that add functionality such as  multi translate, new product config etc.
