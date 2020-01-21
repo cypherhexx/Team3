@@ -1,3 +1,11 @@
+## 1-21
+
+### bid number
+30
+
+### study
+I solved 2 algorithms and did some work for trello in boards page. I studied about angular , data binding and cmd.
+
 ## 1-20
 
 ### bid number
