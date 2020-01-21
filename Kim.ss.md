@@ -1,4 +1,8 @@
 ##  2020-01-20
+I performed to make trello's demo page and studied about it.
+Tomorrow, I'll complete boardpage of this.
+
+##  2020-01-20
 I today implemented abilities of user's board page.
 And, I studied about coding styles.
 Tomorrow, I'll continue to make it and study about them.
