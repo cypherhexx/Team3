@@ -1,3 +1,12 @@
+https://github.com/jeff19962190/algorithm.git  
+## 1-21
+
+### bid number
+30
+
+### study
+I solved 2 algorithms and did some work for trello in boards page. I studied about angular , data binding and cmd.
+
 ## 1-20
 
 ### bid number
@@ -49,7 +58,7 @@ I solved 3 algorithm problems and studied about file handling in core php.
 ### study
 I studied about mail sending in core php and algorithm problems. And finish the sign up page of the trello page.
 url for algorithm
-https://github.com/jeff19962190/algorithm.git  
+
 
 ## 1-13
 
