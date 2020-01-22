@@ -1,3 +1,15 @@
+## 1-22
+### study
+-I solved the 2 algorithm problem(66-plus one, 67-add binary)
+(https://github.com/Paul-Tate/Algorithm)
+### Progress work
+-I studied about the method for hosting MongoDB on cloud.mongodb.com and tried to integrated node and Mongodb using this way.
+But cloud.mongodb.com have the restriction rule to access database of this server so that user should register ip address on this server.
+I hosted the node project on heroku server but my heroku account is free trial account so that it was impossible to register ip address of my server on heroku.
+So I'm going to find other mongoDb hosting service and try again.
+### bid
+25(React, Laravel, payment integration)
+
 ## 1-21
 ### study
 -I solved the 2 algorithm problem(53-maximum subarray, 58-length of last word)
