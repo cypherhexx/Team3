@@ -1,3 +1,11 @@
+## 1-22
+
+### bid number
+33
+
+### study
+I studied about angular, cmd databinding. I add functions to trello page. I solved 2 algorithms and did English study.
+
 https://github.com/jeff19962190/algorithm.git  
 ## 1-21
 
