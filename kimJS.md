@@ -1,10 +1,10 @@
-## 2020/1/22
+## 2020/1/23
 > Progress work
 
 *  I completed to deploye the trello project on heroku
 
 > Study
-* -I solved the 2 algorithm problem(69-Sqrt(x),70-Climbing Stairs )
+* I solved the 2 algorithm problem(69-Sqrt(x),70-Climbing Stairs )
 (https://github.com/Paul-Tate/Algorithm)
 
 > Bid
