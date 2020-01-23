@@ -12,9 +12,11 @@
 
 [Prepare Forum]
 
->1. Study CSS Coding Styl to prepare forum
+>1. Study CSS Coding Styl to prepare forum.
 
 [Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
 
 ## Bidding
 
