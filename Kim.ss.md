@@ -1,9 +1,15 @@
-##  2020-01-21
+#   1/23/2020
+##   working results
+*  I performed to make it, Trello's demo page.
+*  And, I've completed functions of boardpage of this.
+*  Tomorrow, I'll make 'template page'.
+
+##  2020-01-22
 I today performed to make work that has been doing yesterday, too.
 I've completed boardpage of this.
 I'll do this work, tomorrow too.
 
-##  2020-01-20
+##  2020-01-21
 I performed to make trello's demo page and studied about it.
 Tomorrow, I'll complete boardpage of this.
 
