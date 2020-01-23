@@ -1,3 +1,27 @@
+# 01/23/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Study]
+
+>1. I inserted some funtions to trello page.
+>2. I solved 2 algorithm problems.
+>3. I studied angular observable and directive.
+
+[Prepare Forum]
+
+>1. Study CSS Coding Styl to prepare forum
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+## Bidding
+
+>Sent 30 proposals on freelancer.com.
+
+
+
 ## 1-22
 
 ### bid number
