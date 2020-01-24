@@ -1,3 +1,9 @@
+#   1/24/2020
+##   working results
+*  I performed to make it, too.
+*  And, I studied about React-Redux, redux-saga and redux-thunk.
+*  The day after tomorrow, I'll finish it. 
+
 #   1/23/2020
 ##   working results
 *  I performed to make it, Trello's demo page.
