@@ -1,3 +1,12 @@
+## 2020/1/24
+> Study
+* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the redux persist
+
+> Bid
+* 60(PHP, React, Javascript)
+
 ## 2020/1/23
 > Progress work
 
