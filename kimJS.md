@@ -5,7 +5,7 @@
 * I studied about the redux persist
 
 > Bid
-* 35(PHP, React, Javascript)
+* 60(PHP, React, Javascript)
 
 ## 2020/1/23
 > Progress work
