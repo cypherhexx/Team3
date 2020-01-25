@@ -1,5 +1,4 @@
 ## 2020/1/24
-> Progress work
 > Study
 * I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
 (https://github.com/Paul-Tate/Algorithm)
