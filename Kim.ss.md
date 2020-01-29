@@ -1,3 +1,9 @@
+#  1/29/2020
+##  working results
+*  I've made trello's template page's functions.
+*  And, I performed to make laravel page.
+*  I'll study about it, tomorrow. 
+
 #   1/28/2020
 ##  working results
 *  I've studied about laravel and read tutorial.
