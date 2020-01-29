@@ -1,3 +1,78 @@
+# 01/29/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Study]
+
+>1. I solved 2 algorithm problems and combine react and flask.
+>2. I studied angular ngRx
+
+[Prepare Forum]
+
+>1. Study CSS Coding Styl to prepare forum.
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+## Bidding
+
+>Sent 30 proposals on freelancer.com.
+
+
+
+# 01/28/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Study]
+
+>1. I solved 2 algorithm problmes
+>2. I did react+flask project. backend part
+
+[Prepare Forum]
+
+>1. Study CSS Coding Styl to prepare forum.
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+## Bidding
+
+>Sent 30 proposals on freelancer.com.
+
+
+
+# 01/27/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Study]
+
+>1. I solved 2 algorithm problems
+>2. I studied angular. expecially directives and reducer.
+
+[Prepare Forum]
+
+>1. Study CSS Coding Styl to prepare forum.
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+## Bidding
+
+>Sent 10 proposals on freelancer.com.
+
+
+
 # 01/24/2020
 
 ## In progress Projects: 
