@@ -1,3 +1,9 @@
+#   1/27/2020
+##  working results
+*  I've completed to make trello's teampage.
+*  And, I stydied about React, Redux-hook and Redux-saga.
+*  At tomorrow, I'll study laravel.
+
 #   1/26/2020
 ##  working results
 *  I've completed trello's boardpage, finally.
