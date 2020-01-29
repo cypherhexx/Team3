@@ -1,3 +1,8 @@
+#   1/28/2020
+##  working results
+*  I've studied about laravel and read tutorial.
+*  I'll make first page that implemented this.
+
 #   1/27/2020
 ##  working results
 *  I've completed to make trello's teampage.
