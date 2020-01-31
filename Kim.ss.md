@@ -1,3 +1,8 @@
+#  1/31/2020
+##  working results
+*  I studied about polifill that give certification on older browser.
+*  And, I studied Laravel course.
+
 #  1/30/2020
 ##  working results
 *  I studied about laravel tutorial and started to make sample by this.
