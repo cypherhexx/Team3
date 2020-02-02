@@ -1,62 +1,63 @@
 ## 2020/1/31
 > Task
-* I implemented the phone auto functionality in redeem voucher (React + stripe integration)
+* I implemented the functionality to interact with backend using axios( react project-for stripe integration)
 > Study
-* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+* I solved the 2 algorithm problem(121-Best Time to Buy and Sell Stock, Best Time to Buy and Sell Stock II)
 (https://github.com/Paul-Tate/Algorithm)
-* I studied about the redux persist
+* I studied about the react video course(11-Advanced Routing)
 
 > Bid
-* 60(PHP, React, Javascript)
+* 30(Javascript, Reponsive, Vue, React)
 
 ## 2020/1/30
 > Task
 * I implemented the phone auto functionality in redeem voucher (React + stripe integration)
 > Study
-* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+* I solved the 2 algorithm problem(118-Pascal's Triangle, 119-Pascal'sTriangle II )
 (https://github.com/Paul-Tate/Algorithm)
-* I studied about the redux persist
 
 > Bid
-* 60(PHP, React, Javascript)
+* 40(PHP, Javascript)
 
 ## 2020/1/29
+>Task
+* I fixed issues for manage team project and discussed about the whole project for improving with client.
 > Study
-* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+* I solved the 2 algorithm problem(111-Minimum Depth of Binary Tree, 112-Path Sum)
 (https://github.com/Paul-Tate/Algorithm)
-* I studied about the redux persist
+* I studied about the react video course(10- Master Project Recux 1(3 files))
 
 > Bid
-* 60(PHP, React, Javascript)
+* 35(Reponsive, e-commerce, MERN, Database Design)
 
 ## 2020/1/28
+> Task
+* I implemented the functionality for inputing and displaying data such as team name, target, outcome ect using ajax.
 > Study
-* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+* I solved the 2 algorithm problem(108-convert Sorted array to Binary Search Tree, 110-Balanced Binary Tree )
 (https://github.com/Paul-Tate/Algorithm)
-* I studied about the redux persist
+* I studied about the react video course(9- Master Project Recux 1(5 files))
 
 > Bid
-* 60(PHP, React, Javascript)
+* 40(Laravel, Payment integration, Javascript)
+
 
 ## 2020/1/27
-> Study
-* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
-(https://github.com/Paul-Tate/Algorithm)
-* I studied about the redux persist
-
-> Bid
-* 60(PHP, React, Javascript)
-
-## 2020/1/26
 > Task 
 *  I built the landing page of manage team project(Mina-client of Freelancer.com)
 > Study
-* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+* I solved the 2 algorithm problem(104-Maximum Depth ofBinary Tree, 107-Binary Tree Level OrderTraversal )
 (https://github.com/Paul-Tate/Algorithm)
-* I studied about the redux persist
+* I studied about the react video course(9- Master Project Recux 1(5 files))
 
 > Bid
-* 60(PHP, React, Javascript)
+* 30(Mern, Payment integration)
+
+## 2020/1/26
+> Study
+* I solved the 2 algorithm problem(100-Same Tree, 101-Symetric tree )
+(https://github.com/Paul-Tate/Algorithm)
+
 
 ## 2020/1/24
 > Study
