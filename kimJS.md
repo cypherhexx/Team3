@@ -1,3 +1,63 @@
+## 2020/1/31
+> Task
+* I implemented the phone auto functionality in redeem voucher (React + stripe integration)
+> Study
+* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the redux persist
+
+> Bid
+* 60(PHP, React, Javascript)
+
+## 2020/1/30
+> Task
+* I implemented the phone auto functionality in redeem voucher (React + stripe integration)
+> Study
+* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the redux persist
+
+> Bid
+* 60(PHP, React, Javascript)
+
+## 2020/1/29
+> Study
+* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the redux persist
+
+> Bid
+* 60(PHP, React, Javascript)
+
+## 2020/1/28
+> Study
+* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the redux persist
+
+> Bid
+* 60(PHP, React, Javascript)
+
+## 2020/1/27
+> Study
+* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the redux persist
+
+> Bid
+* 60(PHP, React, Javascript)
+
+## 2020/1/26
+> Task 
+*  I built the landing page of manage team project(Mina-client of Freelancer.com)
+> Study
+* I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the redux persist
+
+> Bid
+* 60(PHP, React, Javascript)
+
 ## 2020/1/24
 > Study
 * I solved the 2 algorithm problem(83-Remove Duplicates from sorted list, 88 Merge Sorted Array )
