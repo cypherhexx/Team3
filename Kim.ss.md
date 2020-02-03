@@ -1,3 +1,8 @@
+#  2/3/2020
+##  working results
+*  I studied about laravel tutorial and react-hook.
+*  I have done 10 bids, today. 
+
 #  2/2/2020
 ##  working results
 *  I studied about laravel by examples.
