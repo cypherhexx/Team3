@@ -1,3 +1,8 @@
+#  2/2/2020
+##  working results
+*  I studied about laravel by examples.
+*  I do bid in 'Freelancer.com'.
+
 #  1/31/2020
 ##  working results
 *  I studied about polifill that give certification on older browser.
