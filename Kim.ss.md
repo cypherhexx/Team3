@@ -1,3 +1,19 @@
+#  2/7/2020
+##  working results
+*  I studied about Vue and laravel.
+*  And, I studied about method how to combine vue and laravel.
+*  Tomorrow, I will implement it to my project.
+
+#  2/6/2020
+##  working results
+*  I studied about Vue and read the books about it.
+*  Tomorrow, I'll start vue task.
+
+#  2/5/2020
+##  working results
+*  I studied about laravel.
+*  And, I read the books about it.
+
 #  2/3/2020
 ##  working results
 *  I studied about laravel tutorial and react-hook.
