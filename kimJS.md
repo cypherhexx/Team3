@@ -1,3 +1,27 @@
+## 2020/2/7
+> Task
+* I implemented the functionality to sign in and landing page for OKRs project.
+
+> Bid
+* 20(Laravel, React)
+
+## 2020/2/4
+> Task
+* I implemented the test project for Petrol price project and discuss about the whole project.
+> Study
+* I studied about the react video course(12-12.MASTER PROJECT STATE NORMALIZATION)
+> Bid
+* 30(MERN, MEAN)
+
+## 2020/2/3
+> Task
+* I implemented the functionality to suggest and upvote.
+> Study
+(https://github.com/Paul-Tate/Algorithm)
+* I studied about the react video course(12-12.MASTER PROJECT STATE NORMALIZATION)
+> Bid
+* 30(Javascript, Reponsive, Vue, React)
+
 ## 2020/1/31
 > Task
 * I implemented the functionality to interact with backend using axios( react project-for stripe integration)
