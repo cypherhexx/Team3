@@ -1,3 +1,18 @@
+# 12/02/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Task]
+1. I did angular project about responsive page, preparing all basic files for the site and fabric.js study.
+
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+
 # 11/02/2020
 
 ## In progress Projects: 
