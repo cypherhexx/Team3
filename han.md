@@ -1,3 +1,60 @@
+# 11/2/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Study]
+
+>1. I solved 2 algorithm problems and deploy website to heroku.com.
+>2. I studied deploying flask and react.
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+
+
+# 10/02/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Study]
+
+>1. I solved 2 algorithm problems and deploy website to heroku.com.
+>2. I studied flask and react.
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+
+
+
+# 09/02/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Study]
+
+>1. I solved 2 algorithm problems and combine react and flask.
+>2. I studied angular ngRx
+
+[Prepare Forum]
+
+>1. Study CSS Coding Styl to prepare forum.
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+## Bidding
+
+>Sent 30 proposals on freelancer.com.
 # 07/2/2020
 
 ## In progress Projects: 
