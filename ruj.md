@@ -1,3 +1,42 @@
+# 2-11
+
+### Done
+
+  - CreateUser GraphQL endpoint, UI of PetrolPrice.
+  - Make JS code of CO2Level Tab of Avensys.
+
+### Todo
+
+> Contact with Avensys, Karim
+
+> GraphQL endpoint of PetrolPrice
+
+
+# 2-10
+
+### Done
+
+  - Surf SVG maze Algorithm.
+  - Turn on time track of hubstuff.
+  - Make part of JS code of CO2Level Tab of Avensys.
+
+### Todo
+
+> Contact with Avensys, Karim
+
+
+# 2-9
+
+### Done
+
+  - Receive task plan from CTO.
+  - Contact freelancers for outsourcing.
+
+### Todo
+
+> Theta mze SVG algorithm.
+
+
 # 2-7
 
 ### Done
