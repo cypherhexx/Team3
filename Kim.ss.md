@@ -2,6 +2,7 @@
 **_working results:_**
 *  I studied about Vue modules and laravel.
 *  And, I studied about the example "Vue and laravel combining".
+
 **_todo:_**
 >  Tomorrow, I'll exercise data that I've been studied before that.
 
