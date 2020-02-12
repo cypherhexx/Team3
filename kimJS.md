@@ -1,3 +1,24 @@
+## 2020/2/11
+> Task
+* I implemented the functionality to show the facilities correspond to stations in admin page of petrolprice project.
+> Study
+* I studied about the graphql.
+** https://graphql.org/graphql-js/ , https://www.howtographql.com/
+
+## 2020/2/10
+> Task
+* I implemented the functionality to add new user in admin page of petrolprice project.
+> Study
+* I studied about the typescript and graphql.
+** https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html, https://www.valentinog.com/blog/typescript/
+
+## 2020/2/9
+> Task
+* I implemented the functionality to sign im, sign up and vote page for OKRs project.
+> Study
+* I studied about the typescript and graphql.
+** https://graphql.org/graphql-js/ , https://www.howtographql.com/
+
 ## 2020/2/7
 > Task
 * I implemented the functionality to sign in and landing page for OKRs project.
