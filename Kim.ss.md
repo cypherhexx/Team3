@@ -10,6 +10,7 @@
 **_working results:_**
 *  I studied about Vue-routing and train by using this.
 *  I'll study about Vue modules.
+
 **_todo:_**
 >  Tomorrow, I'll study about Vue modules and laravel.
 
@@ -17,6 +18,7 @@
 **_working results:_**
 *  I studied about Vuex.
 *  And, I do training about it.
+
 **_todo:_**
 >  Tomorrow, I will study about Vue-routing.
 
@@ -24,6 +26,7 @@
 **_working results:_**
 *  I studied about Vue and laravel, too today.
 *  I also do data that I've been completed before that.
+
 **_todo:_**
 >  Tomorrow, I'll study Vuex.
 
@@ -31,6 +34,7 @@
 **_working results:_**
 *  I studied about Vue and laravel.
 *  And, I studied about method how to combine vue and laravel.
+
 **_todo:_**
 >  Tomorrow, I will implement it to my project.
 
@@ -38,6 +42,7 @@
 **_working results:_**
 *  I studied about Vue and read the books about it.
 *  And, I read the book about react-hook.
+
 **_todo:_**
 >  Tomorrow, I'll start vue task.
 
@@ -46,22 +51,27 @@
 **_working results:_**
 *  I studied about laravel.
 *  And, I read the books about it.
+
 **_todo:_**
 >  Tomorrow, I'll study about laravel.
 
 #  2/3/2020
 **_working results:_**
 *  I studied about laravel tutorial and react-hook.
+
 **_todo:_**
 >  I'll study about laravel.
+
 **_bids:_**
 *  I have done 10 bids, today.
 
 #  2/2/2020
 **_working results:_**
 *  I studied about laravel by examples.
+
 **_todo:_**
 >  I'll study about the laravel and trello.com.
+
 **_bids:_**
 *  I do bid in 'Freelancer.com'.
 
