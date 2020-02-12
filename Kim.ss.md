@@ -1,3 +1,25 @@
+#  2/12/2020
+##  working results
+*  I studied about Vue modules and laravel.
+*  And, I studied about the example "Vue and laravel combining".
+*  Tomorrow, I'll exercise data that I've been studied before that.
+
+#  2/11/2020
+##  working results
+*  I studied about Vue-routing and train by using this.
+*  I'll study about Vue modules.
+
+#  2/10/2020
+##  working results
+*  I studied about Vuex.
+*  And, I do training about it.
+*  Tomorrow, I will study about Vue-routing.
+
+#  2/9/2020
+##  working results
+*  I studied about Vue and laravel, too today.
+*  Tomorrow, I'll study Vuex.
+
 #  2/7/2020
 ##  working results
 *  I studied about Vue and laravel.
