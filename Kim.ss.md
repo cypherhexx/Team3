@@ -1,3 +1,11 @@
+#  2/13/2020
+**_working results:_**
+*  I performed about Vue and laravel task.
+*  But, I didn't find reason that load fine on my device.
+
+**_todo:_**
+*  I'll find it and perform this task since tomorrow.
+
 #  2/12/2020
 **_working results:_**
 *  I studied about Vue modules and laravel.
