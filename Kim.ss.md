@@ -1,49 +1,78 @@
 #  2/12/2020
-##  working results
+**_working results:_**
 *  I studied about Vue modules and laravel.
 *  And, I studied about the example "Vue and laravel combining".
-*  Tomorrow, I'll exercise data that I've been studied before that.
+
+**_todo:_**
+>  Tomorrow, I'll exercise data that I've been studied before that.
 
 #  2/11/2020
-##  working results
+**_working results:_**
 *  I studied about Vue-routing and train by using this.
 *  I'll study about Vue modules.
 
+**_todo:_**
+>  Tomorrow, I'll study about Vue modules and laravel.
+
 #  2/10/2020
-##  working results
+**_working results:_**
 *  I studied about Vuex.
 *  And, I do training about it.
-*  Tomorrow, I will study about Vue-routing.
+
+**_todo:_**
+>  Tomorrow, I will study about Vue-routing.
 
 #  2/9/2020
-##  working results
+**_working results:_**
 *  I studied about Vue and laravel, too today.
-*  Tomorrow, I'll study Vuex.
+*  I also do data that I've been completed before that.
+
+**_todo:_**
+>  Tomorrow, I'll study Vuex.
 
 #  2/7/2020
-##  working results
+**_working results:_**
 *  I studied about Vue and laravel.
 *  And, I studied about method how to combine vue and laravel.
-*  Tomorrow, I will implement it to my project.
+
+**_todo:_**
+>  Tomorrow, I will implement it to my project.
 
 #  2/6/2020
-##  working results
+**_working results:_**
 *  I studied about Vue and read the books about it.
-*  Tomorrow, I'll start vue task.
+*  And, I read the book about react-hook.
+
+**_todo:_**
+>  Tomorrow, I'll start vue task.
+
 
 #  2/5/2020
-##  working results
+**_working results:_**
 *  I studied about laravel.
 *  And, I read the books about it.
 
+**_todo:_**
+>  Tomorrow, I'll study about laravel.
+
 #  2/3/2020
-##  working results
+**_working results:_**
 *  I studied about laravel tutorial and react-hook.
-*  I have done 10 bids, today. 
+
+**_todo:_**
+>  I'll study about laravel.
+
+**_bids:_**
+*  I have done 10 bids, today.
 
 #  2/2/2020
-##  working results
+**_working results:_**
 *  I studied about laravel by examples.
+
+**_todo:_**
+>  I'll study about the laravel and trello.com.
+
+**_bids:_**
 *  I do bid in 'Freelancer.com'.
 
 #  1/31/2020
