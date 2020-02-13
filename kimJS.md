@@ -1,3 +1,11 @@
+
+## 2020/2/12
+> Task
+* I implemented the functionality to edit and delete facilities in admin page of petrolprice project.
+> Study
+* I studied about the graphql.
+** https://graphql.org/graphql-js/ , https://www.howtographql.com/
+
 ## 2020/2/11
 > Task
 * I implemented the functionality to show the facilities correspond to stations in admin page of petrolprice project.
