@@ -1,3 +1,15 @@
+# 2-12
+
+### Done
+
+  - Make Facility functions of PetrolPrices.
+  - Get payment from Jason
+
+### Todo
+
+> Contact with Karim
+
+
 # 2-11
 
 ### Done
