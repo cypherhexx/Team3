@@ -2,6 +2,21 @@
 
 ### Done
 
+  - 2 Queries, 1 Mutation, UI of PetrolPrices.
+  - Make JS code of CO2Level Tab of Avensys.
+
+### Todo
+
+> Contact with Avensys, Karim
+
+> GraphQL endpoint of PetrolPrice
+
+
+
+# 2-11
+
+### Done
+
   - CreateUser GraphQL endpoint, UI of PetrolPrice.
   - Make JS code of CO2Level Tab of Avensys.
 
@@ -10,6 +25,7 @@
 > Contact with Avensys, Karim
 
 > GraphQL endpoint of PetrolPrice
+
 
 
 # 2-10
