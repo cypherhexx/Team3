@@ -1,10 +1,18 @@
+#  2/14/2020
+**_working results:_**
+*  I performed bug fixing about Vue-laravel project.
+*  So, I find the bug of this.
+
+**_todo:_**
+>  I'll start hard coding, from tomorrow.
+
 #  2/13/2020
 **_working results:_**
 *  I performed about Vue and laravel task.
 *  But, I didn't find reason that load fine on my device.
 
 **_todo:_**
-*  I'll find it and perform this task since tomorrow.
+>  I'll find it and perform this task since tomorrow.
 
 #  2/12/2020
 **_working results:_**
