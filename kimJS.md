@@ -1,3 +1,10 @@
+## 2020/2/12
+> Task
+* I implemented the functionality to add func in edit page for facilities of petrolprice project.
+* And I fixed 2 issus for this project.
+> Study
+* I studied about the graphql.
+** https://www.howtographql.com/
 
 ## 2020/2/12
 > Task
