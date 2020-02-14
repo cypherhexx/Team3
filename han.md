@@ -6,6 +6,21 @@
 
 [task]
 I am working on POS project. Especially about the edit table page.
+I studied about canvas making and angular directive and angular material.
+
+[Leetcode](https://github.com/jeff19962190/algorithm.git)
+
+[Trello](https://github.com/Neil-Tate/Immutation-trello-team3)
+
+
+# 13/02/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[task]
+I am working on POS project. Especially about the edit table page.
 
 [Leetcode](https://github.com/jeff19962190/algorithm.git)
 
